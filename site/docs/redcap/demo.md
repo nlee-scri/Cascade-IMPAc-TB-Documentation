@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Demo of Using REDCap
+parent: REDCap
 ---
 
 ## RedCap Data Collection and Organization
@@ -38,3 +39,4 @@ This documentation provides an overview of the RedCap project setup for collecti
 For any feedback or questions, feel free to reach out. Thank you for watching!
 
 [Link to Loom](https://www.loom.com/share/bcb3063c038d427fbb61d16f8f619e0d)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/bcb3063c038d427fbb61d16f8f619e0d?sid=3dc7a9cf-63e4-4a0f-aade-e1930bad4552" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

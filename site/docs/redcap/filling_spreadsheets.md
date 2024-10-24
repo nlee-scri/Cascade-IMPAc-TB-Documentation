@@ -1,14 +1,8 @@
 ---
 layout: default
-title: REDCap
+title: REDCap Template Upload
+parent: REDCap
 ---
-
-REDCap is used for collecting metadata on a study / experiment. Requires new users to sign up for access. Allows external users to see as well. 
-
-[Seattle Childrens REDCap Site](https://redcap.seattlechildrens.org/)
-
-
-Static tutorial:  https://scribehow.com/shared/Importing_Data_to_REDCap__H6SuaL2HRwSTYPrSCgYFxA
 
 ## Instructions
 
@@ -41,13 +35,9 @@ Static tutorial:  https://scribehow.com/shared/Importing_Data_to_REDCap__H6SuaL2
 Link to Loom (open in chrome if edge does not work)
 [Tutorial](https://www.loom.com/share/4d3e7343708d4cc39ae6a60b94f8114f)
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4d3e7343708d4cc39ae6a60b94f8114f?sid=e582bdc6-9507-4d11-bc59-8552c8dbe855" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 Notes:
 
 - A record must be entered for each study
 - Repeat records for subjects/participants, assays, and experiments. These would look like rows in a cell sheet
-
-Example of filled in templates: 
-
-- [test_subject_info_3.csv](https://seattlechildrens-my.sharepoint.com/:x:/g/personal/nicholas_lee_seattlechildrens_org/EeRF-2GXNbZJvOouJWfGvbEBO4A7latkMsfDWgElM98Vyg?e=UEl30k)
-- Flow Cytometry
-  - [test_reagents.csv](https://seattlechildrens-my.sharepoint.com/:x:/g/personal/nicholas_lee_seattlechildrens_org/ESOlX581mttIh4juHoo5kYYBRRssr5kAdnYRjDy2dEqTkg?e=oUNhlU)

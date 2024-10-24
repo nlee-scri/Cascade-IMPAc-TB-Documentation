@@ -1,8 +1,3 @@
----
-layout: default
-title: Data Types
----
-
 ## Data Types
 
 ```mermaid

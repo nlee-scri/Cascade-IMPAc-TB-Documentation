@@ -1,20 +1,18 @@
----
-layout: default
-title: Cascade-IMPAc-TB Metadata Tools and Templates
----
+# Cascade-IMPAc-TB Metadata Tools and Templates
 
 Documentation, templates, and tools for Cascade IMPAc-TB
 
-- [Templates](#templates)
-- [Metadata](#metadata)
-  - [Connections](#connections)
-  - [Legends](#legends)
-    - [Cardinality](#cardinality)
-    - [Aliases](#aliases)
-- [Repository Connections](#repository-connections)
-- [Assay Designations](#assay-designations)
-- [Data Designation by Species](#data-designation-by-species)
-- [Tools](#tools)
+- [Cascade-IMPAc-TB Metadata Tools and Templates](#cascade-impac-tb-metadata-tools-and-templates)
+  - [Templates](#templates)
+  - [Metadata](#metadata)
+    - [Connections](#connections)
+    - [Legends](#legends)
+      - [Cardinality](#cardinality)
+      - [Aliases](#aliases)
+  - [Repository Connections](#repository-connections)
+  - [Assay Designations](#assay-designations)
+  - [Data Designation by Species](#data-designation-by-species)
+  - [Tools](#tools)
 
 ## Templates
 
