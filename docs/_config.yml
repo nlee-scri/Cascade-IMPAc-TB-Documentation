@@ -29,7 +29,8 @@ version: 0.1
 logo: "assets/imgs/logo Cascade Impactb.png"
 
 # Build settings
-theme: just-the-docs
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 plugins:
   - jekyll-feed
