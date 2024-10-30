@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/nlee-scri/submission_tools.git
+[submodule "data_model"]
+	path = data_model
+	url = https://github.com/nlee-scri/Cascade-IMPAc-TB-data_model.git
