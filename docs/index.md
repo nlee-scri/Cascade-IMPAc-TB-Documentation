@@ -1,25 +1,28 @@
 ---
 title: Home
-layout: default
+layout: home
 date: 2024-10-24
 tags: [Mermaid]
 mermaid: true
 nav_order: 1
 ---
 
+# {{ page.title }}
+
 Documentation, templates, and tools for Cascade IMPAc-TB
 
-- [About the Consortium and Studies](#about-the-consortium-and-studies)
-- [Templates](#templates)
-- [Metadata](#metadata)
-  - [Connections](#connections)
-  - [Legends](#legends)
-    - [Cardinality](#cardinality)
-    - [Aliases](#aliases)
-- [Repository Connections](#repository-connections)
-- [Assay Designations](#assay-designations)
-- [Data Designation by Species](#data-designation-by-species)
-- [Tools](#tools)
+- [{{ page.title }}](#-pagetitle-)
+  - [About the Consortium and Studies](#about-the-consortium-and-studies)
+  - [Templates](#templates)
+  - [Metadata](#metadata)
+    - [Connections](#connections)
+    - [Legends](#legends)
+      - [Cardinality](#cardinality)
+      - [Aliases](#aliases)
+  - [Repository Connections](#repository-connections)
+  - [Assay Designations](#assay-designations)
+  - [Data Designation by Species](#data-designation-by-species)
+  - [Tools](#tools)
 
 ---  
 
